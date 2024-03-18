@@ -1,6 +1,11 @@
-h1 {
+body {
     color:blue;
-    background-color: darkgrey;
+    background-color: rgb(243, 255, 110);
     font-family: Tahoma, Arial, sans-serif;
 }
+
+.title, .image {
+    text-align: center;
+}
+
 
